@@ -7,4 +7,4 @@ alias nethack-online='ssh nethack@nethack.alt.org ; clear'
 alias tron-online='ssh sshtron.zachlatta.com ; clear'
 alias glog='git log --oneline --graph --color --all --decorate'
 alias update='cd /usr/local/Linux_Mantance/ && sudo ./update.sh && cd ~'
-
+alias c="clear"
