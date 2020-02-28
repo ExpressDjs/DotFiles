@@ -8,4 +8,4 @@ alias tron-online='ssh sshtron.zachlatta.com ; clear'
 alias glog='git log --oneline --graph --color --all --decorate'
 alias update='cd /usr/local/Linux_Mantance/ && sudo ./update.sh && cd ~'
 alias c="clear"
-alias logs="lnav"
+alias logs="lnav /var/log"
