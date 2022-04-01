@@ -4,7 +4,7 @@
 cd ~
 git clone https://github.com/ExpressDjs/DotFiles.git
 
-cd dotfiles
+cd DotFiles
 ```
 ### Run install
 ```
